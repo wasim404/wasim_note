@@ -1,0 +1,6 @@
+# 忽略 Obsidian 的本地配置文件
+.obsidian/
+
+# 忽略 macOS 自动生成的元数据文件
+._*
+.DS_Store
